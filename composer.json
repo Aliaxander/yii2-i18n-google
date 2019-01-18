@@ -1,5 +1,5 @@
 {
-    "name": "conquer/i18n",
+    "name": "aliaxander/i18n",
     "description": "The I18n automatic translation extension for the Yii2 framework",
     "keywords": ["yii2", "i18n", "google-translate", "yandex-translate"],
     "homepage": "https://github.com/borodulin/yii2-i18n-google",
