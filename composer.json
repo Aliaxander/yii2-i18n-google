@@ -23,10 +23,5 @@
         "psr-4": {
         	"conquer\\i18n\\": ""
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.1.1-dev"
-        }
     }
 }
